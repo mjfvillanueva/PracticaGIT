@@ -1,4 +1,0 @@
-Esta es mi primera practica de GIT.
-Quien ha editado este archivo:
-
-1. MARIA JOSE 2
