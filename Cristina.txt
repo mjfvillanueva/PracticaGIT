@@ -1,0 +1,6 @@
+    
+       Esta es mi primera practica de GIT.
+
+     Quiem ha  editado este archivo:
+
+             Cristina.
